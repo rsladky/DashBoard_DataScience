@@ -1,0 +1,4 @@
+name: dashboard
+channels:
+  - defaults
+prefix: /opt/miniconda3/envs/dashboard
