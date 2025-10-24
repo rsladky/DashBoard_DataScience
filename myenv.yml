@@ -1,4 +1,6 @@
 name: dashboard
 channels:
   - defaults
+dependencies:
+  - python=3.11
 prefix: /opt/miniconda3/envs/dashboard
